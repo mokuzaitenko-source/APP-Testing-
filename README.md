@@ -1,6 +1,6 @@
 # APP-Testing-
 
-App-focused testing repository.
+I use this app-focused repository to validate what I build, test route behavior, and keep legacy compatibility checks in one place.
 
 ## Included
 
